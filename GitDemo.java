@@ -1,5 +1,5 @@
 /*****
- * Matthew Kuljam
+ * Matthew Kuljam 
  ******/
 public class GitDemo {
     
